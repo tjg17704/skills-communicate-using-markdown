@@ -16,3 +16,14 @@
 ![Image of Github](https://www.kaitoy.xyz/images/github.png)
 
 ###### 20230713 part2 changed
+
+```
+if (!success) {
+  TryAgain();
+}
+```
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+###### 20230713 part3 changed
